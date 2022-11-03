@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(247, 235, 235);
+}
+
+
+h1{
+    color : green;
+ 
+}
+#musician-title{
+    color :red;
+}
+#music-item{
+    color: rgb(235, 0, 235);
+    background-color: white;
+}
+#musician-item{
+   color : purple;
+   background-color: blue;
+
+
+
+}
+.uppersection{
+    background-color: grey;
+}
